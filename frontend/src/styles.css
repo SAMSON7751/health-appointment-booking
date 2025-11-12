@@ -1,0 +1,11 @@
+body { font-family: Arial, Helvetica, sans-serif; margin: 0; padding: 0; background: #f7f9fc; color: #111; }
+.header { background: #2b6cb0; color: white; padding: 12px 18px; display: flex; align-items: center; justify-content: space-between; }
+.header h1 { margin: 0; font-size: 18px; }
+.role-switch label { margin-left: 8px; color: #fff; }
+.main { padding: 18px; }
+.card { background: #fff; padding: 12px; border-radius: 6px; box-shadow: 0 1px 3px rgba(0,0,0,0.06); margin-bottom: 12px; }
+.message { color: green; }
+label { display: block; margin-bottom: 8px; }
+input, select, button { display: block; margin-top: 6px; }
+button { padding: 6px 12px; background: #2b6cb0; color: white; border: none; border-radius: 4px; cursor: pointer; }
+button:hover { opacity: 0.95; }
