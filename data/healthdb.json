@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Dr Alice",
+      "email": "alice@clinic.test",
+      "password_hash": "placeholder",
+      "role": "doctor",
+      "created_at": "2025-11-19T18:14:05.541Z"
+    },
+    {
+      "id": 2,
+      "name": "Bob Patient",
+      "email": "bob@patient.test",
+      "password_hash": "placeholder",
+      "role": "patient",
+      "created_at": "2025-11-19T18:14:05.549Z"
+    }
+  ],
+  "appointments": []
+}

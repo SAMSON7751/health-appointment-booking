@@ -1,4 +1,5 @@
 node_modules/
+<<<<<<< HEAD
 dist/
 .env
 /.vscode/
@@ -7,3 +8,14 @@ npm-debug.log
 yarn-error.log
 package-lock.json
 
+=======
+.env
+>>>>>>> ce7f369 (Initial scaffold: backend API)
+
+# Combined ignores
+dist/
+/.vscode/
+/ .idea/
+npm-debug.log
+yarn-error.log
+package-lock.json
